@@ -7,7 +7,7 @@
       "device": "phoenix_ztc1997"
     },
     "isConfiginvendor":true,
-    "withKernelSU": false,
+    "withKernelSU": true,
     "useCustomtool":true,
     "dtbPath":"boot/dts/qcom/sdmmagpie.dtb",
     "toolchains": [
@@ -43,7 +43,7 @@
       "device": "phoenix"
     },
     "isConfiginvendor":false,
-    "withKernelSU": false,
+    "withKernelSU": true,
     "useCustomtool":false,
     "dtbPath":"boot/dts/qcom/sdmmagpie.dtb",
     "toolchains": [
