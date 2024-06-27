@@ -1,9 +1,9 @@
 [
   {
     "kernelSource": {
-      "name": "redcliff",
-      "repo": "https://github.com/SlackerState/android_kernel_xiaomi_sm6150",
-      "branch": "redcliff",
+      "name": "Redcliff",
+      "repo": "https://github.com/Owplz/android_kernel_xiaomi_phoenix",
+      "branch": "R",
       "device": "phoenix"
     },
     "isConfiginvendor":false,
